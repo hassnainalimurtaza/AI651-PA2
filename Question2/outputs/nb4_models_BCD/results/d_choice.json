@@ -1,0 +1,11 @@
+{
+  "D_choice": "D_p8_ln",
+  "cfg": {
+    "patch": 8,
+    "hidden": 64,
+    "kernel": 3,
+    "dilation": 1,
+    "norm": true
+  },
+  "version": 1792956662.4276578
+}
